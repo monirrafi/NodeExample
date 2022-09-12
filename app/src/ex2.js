@@ -5,6 +5,6 @@ let taille = tab1.length;
 
 console.log("Taille est : "+taille);
 for(let i=0; i<taille;i++){
-    console.log("tab1 ["+i +"] = "+ tab1[i]);
+    console.log("1- tab1 ["+i +"] = "+ tab1[i] + "\n2- tab2 ["+i +"] = "+ tab2[i]);
 
 }
